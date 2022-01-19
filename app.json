@@ -34,7 +34,7 @@
             "required": true,
             "value": ""
         },
-        "ALEXIA_SUPPORT": {
+        "SUPPORT_GROUP": {
             "description": "Ur Support Group Username",
             "required": false,
             "value": "FULL_MASTI_CLUBS"
